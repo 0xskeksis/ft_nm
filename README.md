@@ -1,0 +1,2 @@
+# ft_nm
+A completely UNIX project ft_nm Summary: This project is about recoding the command nm
